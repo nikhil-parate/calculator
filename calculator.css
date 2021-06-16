@@ -1,0 +1,25 @@
+#cal {
+    display: grid;
+    height: 400px;
+    width: 400px;
+}
+#inn {
+    height: 50px;
+    grid-column: span 4;
+}
+body {
+    display: flex;
+    padding-top: 10%;
+    justify-content: center;
+    background-color: rgb(12, 75, 104);
+}
+p{
+    font-weight: 700;
+    border: 2px solid blueviolet ;
+    background-color: darkcyan;
+    text-align: center;
+    font-size: 20px;
+}
+p:hover{
+    background-color: burlywood;
+}

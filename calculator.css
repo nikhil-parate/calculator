@@ -2,6 +2,7 @@
     display: grid;
     height: 400px;
     width: 400px;
+    border: 1px solid black ;
 }
 #inn {
     height: 50px;

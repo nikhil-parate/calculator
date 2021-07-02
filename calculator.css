@@ -2,7 +2,8 @@
     display: grid;
     height: 400px;
     width: 400px;
-    border-style: solid solid none solid;
+    border-style: 1px solid;
+    background-color: #F4F6F6;
 }
 #inn {
     height: 50px;

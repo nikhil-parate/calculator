@@ -2,7 +2,7 @@
     display: grid;
     height: 400px;
     width: 400px;
-    border: 1px solid black ;
+    border: solid solid none solid;
 }
 #inn {
     height: 50px;
@@ -16,7 +16,7 @@ body {
 }
 p{
     font-weight: 700;
-    border: 1px solid black ;
+    border: 1px solid ;
     background-color: darkcyan;
     text-align: center;
     font-size: 20px;
